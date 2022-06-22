@@ -1,0 +1,248 @@
+{
+  "uuid": "781e7a72-6d16-4003-a6b1-819b30333d2e-tr-0-1003",
+  "historyId": "FarfetchTetst.BaseTest.CheckAddToBag",
+  "fullName": "FarfetchTetst.BaseTest.CheckAddToBag",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4M3ML86"
+    },
+    {
+      "name": "package",
+      "value": "FarfetchTetst"
+    },
+    {
+      "name": "testMethod",
+      "value": "CheckAddToBag"
+    },
+    {
+      "name": "testClass",
+      "value": "BaseTest"
+    },
+    {
+      "name": "owner",
+      "value": "Kirill"
+    },
+    {
+      "name": "subSuite",
+      "value": "Shopping bag test"
+    },
+    {
+      "name": "suite",
+      "value": "Farfetch app tests"
+    }
+  ],
+  "links": [],
+  "name": "CheckAddToBag",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "CheckAddToBag"
+  },
+  "stage": "finished",
+  "description": "Adding an item to shopping bag test\n",
+  "steps": [
+    {
+      "name": "CheckAddToBag",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Selected gender",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915646422,
+          "stop": 1655915665673
+        },
+        {
+          "name": "Denied access to notifications",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915665673,
+          "stop": 1655915675745
+        },
+        {
+          "name": "Confirmed location and currency",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915675746,
+          "stop": 1655915684279
+        },
+        {
+          "name": "Clicked on the search button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915684282,
+          "stop": 1655915692909
+        },
+        {
+          "name": "Clicked on the search line",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915692911,
+          "stop": 1655915701758
+        },
+        {
+          "name": "Entered search text",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "Prada Eyewear"
+            }
+          ],
+          "start": 1655915701762,
+          "stop": 1655915710960
+        },
+        {
+          "name": "Clicked on suggestion button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915710961,
+          "stop": 1655915719564
+        },
+        {
+          "name": "Clicked on the product",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915719566,
+          "stop": 1655915730274
+        },
+        {
+          "name": "Added product to bag",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915730275,
+          "stop": 1655915739300
+        },
+        {
+          "name": "Clicked on the bag button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915739300,
+          "stop": 1655915748257
+        },
+        {
+          "name": "Got shopping bag counter",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915748257,
+          "stop": 1655915756781
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "37aaabcfe62b4b47b067626ef34d3471-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1655915628788,
+      "stop": 1655915759407
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1655915628787,
+  "stop": 1655915759411
+}

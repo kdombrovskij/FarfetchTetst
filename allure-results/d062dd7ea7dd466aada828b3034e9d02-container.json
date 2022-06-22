@@ -1,0 +1,44 @@
+{
+  "uuid": "97b066f6-1ce9-4dbc-ac92-4b7e5581b0c9-tc-0-1000",
+  "name": "FarfetchTetst.BaseTest.CheckAddToBag",
+  "children": [
+    "781e7a72-6d16-4003-a6b1-819b30333d2e-tr-0-1003"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655915759401,
+      "stop": 1655915759401
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655915759402,
+      "stop": 1655915759402
+    }
+  ],
+  "links": [],
+  "start": 1655915628783,
+  "stop": 1655915759430
+}

@@ -1,0 +1,233 @@
+{
+  "uuid": "30b381ed-d1cb-49c3-a3a1-b0eab28dde63-tr-0-1002",
+  "historyId": "FarfetchTetst.BaseTest.CheckAddToWishlist",
+  "fullName": "FarfetchTetst.BaseTest.CheckAddToWishlist",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4M3ML86"
+    },
+    {
+      "name": "package",
+      "value": "FarfetchTetst"
+    },
+    {
+      "name": "testMethod",
+      "value": "CheckAddToWishlist"
+    },
+    {
+      "name": "testClass",
+      "value": "BaseTest"
+    },
+    {
+      "name": "owner",
+      "value": "Kirill"
+    },
+    {
+      "name": "subSuite",
+      "value": "Wishlist test"
+    },
+    {
+      "name": "suite",
+      "value": "Farfetch app tests"
+    }
+  ],
+  "links": [],
+  "name": "CheckAddToWishlist",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "CheckAddToWishlist"
+  },
+  "stage": "finished",
+  "description": "Adding an item to wishlist test\n",
+  "steps": [
+    {
+      "name": "CheckAddToWishlist",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Selected gender",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915782906,
+          "stop": 1655915798119
+        },
+        {
+          "name": "Denied access to notifications",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915798121,
+          "stop": 1655915808200
+        },
+        {
+          "name": "Confirmed location and currency",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915808202,
+          "stop": 1655915816796
+        },
+        {
+          "name": "Clicked on the search button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915816799,
+          "stop": 1655915825973
+        },
+        {
+          "name": "Clicked on the search line",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915825973,
+          "stop": 1655915834515
+        },
+        {
+          "name": "Entered search text",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "Prada Eyewear"
+            }
+          ],
+          "start": 1655915834516,
+          "stop": 1655915844029
+        },
+        {
+          "name": "Clicked on suggestion button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915844031,
+          "stop": 1655915853331
+        },
+        {
+          "name": "Added item to wishlist",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915853332,
+          "stop": 1655915862908
+        },
+        {
+          "name": "Clicked on the wishlist button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915862909,
+          "stop": 1655915867259
+        },
+        {
+          "name": "Got number of items in the wishlist",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655915867261,
+          "stop": 1655915875771
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "243aef6ad64d4cc995f3502b609ab644-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1655915765521,
+      "stop": 1655915878360
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1655915765520,
+  "stop": 1655915878366
+}
